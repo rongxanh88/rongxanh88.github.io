@@ -28,3 +28,25 @@
   border-color: #000000;
   border-radius: 100px;
 }
+
+.headline-font {
+  font-family: 'Ranga', cursive;
+  font-size: 60px;
+}
+
+.section-header {
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+}
+
+.title-place {
+  color: #00008B;
+}
+
+.title-position {
+  color: #008000;
+}
+
+.title-location {
+  color: #808080;
+}
