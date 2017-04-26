@@ -21,3 +21,10 @@
   left: 400px;
   color: #FFFFFF;
 }
+
+.social-media:hover {
+  border: solid;
+  border-width: 8px;
+  border-color: #000000;
+  border-radius: 100px;
+}
